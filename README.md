@@ -1,2 +1,1 @@
-This is Alx interview questions repo for Short Specialization
-
+Alx-interview Repo (Short Specialization)
