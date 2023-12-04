@@ -1,6 +1,6 @@
 # Lockboxes
 
-This project contains interview coding challenges.
+This project contains alx interview coding challenges.
 
 ## Tasks To Complete
 
